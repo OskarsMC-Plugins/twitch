@@ -1,0 +1,13 @@
+{
+  "id": "twitch",
+  "name": "twitch",
+  "version": "0.1.0",
+  "description": "Plugin to link twitch to minecraft chat for Velocity",
+  "url": "https://software.oskarsmc.com/",
+  "authors": [
+    "OskarsMC",
+    "OskarZyg"
+  ],
+  "dependencies": [],
+  "main": "com.oskarsmc.twitch.Twitch"
+}

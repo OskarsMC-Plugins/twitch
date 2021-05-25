@@ -1,0 +1,16 @@
+[plugin]
+    enabled=true
+
+[messages]
+    # General
+    usage="<red>/twitch \\<off|set> \\<player><red>"
+    no-permission="<red>You do not have permission to do that.</red>"
+    # /twitch
+    channel-set="<light_purple>Set your chat to <streamer>.</light_purple>"
+    channel-off="<light_purple>Disabled your chat.</light_purple>"
+    channel-off-not-found="<light_purple>You are not in a channel.</light_purple>"
+    # Chat Message
+    chat-message="<white>[<gradient:#9146FF:#9146FF>Twitch</gradient>] [<color:#FFD64D><author></color>]: <pre><message></pre>"
+
+[developer-info]
+    config-version=0.1
